@@ -1,0 +1,45 @@
+/* first method for creating digital clock */
+
+/* .show-clock{
+    border: 1px solid gray;
+    height: 150px;
+    max-width: 500px;
+    color: whitesmoke;
+    background-color: black;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+p{
+    color: whitesmoke;
+}
+
+.heading{
+    text-align: center;
+} */
+
+
+/* second method */
+.show-clock{
+    border: 1px solid gray;
+    height: 150px;
+    max-width: 500px;
+    color: whitesmoke;
+    background-color: black;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+p{
+    color: whitesmoke;
+}
+
+.heading{
+    text-align: center;
+}
